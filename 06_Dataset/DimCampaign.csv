@@ -1,0 +1,44 @@
+﻿CampaignKey,CampaignID,CampaignName,ChannelKey,Objective,StartDate,EndDate,BudgetEGP,FocusCategory,TargetAudience,PromoCode
+1,CMP-001,AO | Brand Search,4,Conversion,2025-01-01,2026-06-30,964000,All,Brand keywords,
+2,CMP-002,AO | Generic Search - Kitchen,4,Conversion,2025-01-01,2026-06-30,1193000,Cookware,Generic keywords,
+3,CMP-003,AO | Meta Prospecting - Lookalike,1,Conversion,2025-01-01,2026-06-30,3408000,All,Lookalike 1-3%,
+4,CMP-004,AO | Meta Retargeting - DPA,1,Conversion,2025-01-01,2026-06-30,1455000,All,Site visitors 30D,
+5,CMP-005,AO | TikTok Prospecting,2,Traffic,2025-02-01,2026-06-30,1701000,Kitchen Tools,Women 22-40,
+6,CMP-006,AO | Email Newsletter,9,Retention,2025-01-01,2026-06-30,72000,All,Subscribers,
+7,CMP-007,New Year Home Refresh 2025,1,Conversion,2025-01-01,2025-01-10,40000,Home Textiles,Broad Egypt,NEWYEAR10
+8,CMP-008,Winter Bedding Sale 2025,2,Conversion,2025-01-12,2025-02-07,74000,Home Textiles,Women 25-45,WARM15
+9,CMP-009,Valentine's Gifts 2025,3,Conversion,2025-02-05,2025-02-14,21000,Home Fragrance,18-30 couples,LOVE10
+10,CMP-010,Ramadan Kareem 2025 | Meta,1,Conversion,2025-02-20,2025-03-29,308000,Cookware,Housewives 25-55,RAMADAN15
+11,CMP-011,Ramadan Kareem 2025 | TikTok,2,Conversion,2025-02-25,2025-03-29,151000,Kitchen Tools,Women 22-40,RAMADAN15
+12,CMP-012,Ramadan Kareem 2025 | YouTube,5,Awareness,2025-02-25,2025-03-25,104000,Cookware,Broad Egypt,
+13,CMP-013,Ramadan Chef Creators 2025,6,Conversion,2025-02-28,2025-03-25,136000,Cookware,Creator followers,CHEF15
+14,CMP-014,Ramadan Ring Road Billboards 2025,10,Awareness,2025-02-25,2025-03-29,293000,Cookware,Greater Cairo,SAFFA20
+15,CMP-015,Eid El-Fitr Flash Sale 2025 | SMS,8,Retention,2025-03-29,2025-04-03,7000,All,Past buyers,EID10
+16,CMP-016,Eid El-Fitr Offers 2025 | WhatsApp,7,Retention,2025-03-29,2025-04-03,5000,All,Opted-in customers,EID10
+17,CMP-017,Mother's Day Gifts 2025,1,Conversion,2025-03-10,2025-03-21,45000,Small Appliances,18-35 gift buyers,MAMA10
+18,CMP-018,Eid El-Adha BBQ & Kitchen 2025,1,Conversion,2025-05-28,2025-06-10,63000,Small Appliances,Broad Egypt,ADHA10
+19,CMP-019,Gehaz El-Arousa 2025 | Meta,1,Conversion,2025-06-11,2025-08-31,355000,Cookware,Engaged women 22-32,AROUSA12
+20,CMP-020,Gehaz El-Arousa 2025 | Google,4,Conversion,2025-06-11,2025-08-31,118000,Cookware,Wedding keywords,AROUSA12
+21,CMP-021,Summer Sahel Essentials 2025,3,Traffic,2025-07-01,2025-08-20,107000,Storage & Organization,18-35 travellers,
+22,CMP-022,Back to School Organize 2025,1,Conversion,2025-08-25,2025-09-30,139000,Storage & Organization,Parents 28-45,SCHOOL10
+23,CMP-023,Back to School 2025 | TikTok,2,Conversion,2025-08-25,2025-09-30,98000,Storage & Organization,Parents 28-45,SCHOOL10
+24,CMP-024,Home Makeover Creators 2025,6,Awareness,2025-10-01,2025-10-31,105000,Home Fragrance,Creator followers,HOME10
+25,CMP-025,White Friday 2025 | Meta,1,Conversion,2025-11-01,2025-11-30,393000,Small Appliances,Broad Egypt,WF25
+26,CMP-026,White Friday 2025 | Google,4,Conversion,2025-11-01,2025-11-30,122000,Small Appliances,Deal keywords,WF25
+27,CMP-027,White Friday 2025 | TikTok,2,Conversion,2025-11-01,2025-11-30,155000,Small Appliances,18-35,WF25
+28,CMP-028,White Friday 2025 | SMS,8,Retention,2025-11-20,2025-11-30,18000,All,Past buyers,WF25
+29,CMP-029,White Friday 2025 | WhatsApp,7,Retention,2025-11-20,2025-11-30,15000,All,Opted-in customers,WF25
+30,CMP-030,Winter Bedding Sale 2026,1,Conversion,2025-12-15,2026-01-31,206000,Home Textiles,Women 25-45,WARM15
+31,CMP-031,Valentine's Gifts 2026,3,Conversion,2026-02-05,2026-02-14,26000,Home Fragrance,18-30 couples,LOVE10
+32,CMP-032,Ramadan Kareem 2026 | Meta,1,Conversion,2026-02-08,2026-03-19,464000,Cookware,Housewives 25-55,RAMADAN15
+33,CMP-033,Ramadan Kareem 2026 | TikTok,2,Conversion,2026-02-12,2026-03-19,214000,Kitchen Tools,Women 22-40,RAMADAN15
+34,CMP-034,Ramadan Kareem 2026 | YouTube,5,Awareness,2026-02-12,2026-03-15,126000,Cookware,Broad Egypt,
+35,CMP-035,Ramadan Chef Creators 2026,6,Conversion,2026-02-15,2026-03-15,196000,Cookware,Creator followers,CHEF15
+36,CMP-036,Mother's Day Gifts 2026,1,Conversion,2026-03-08,2026-03-21,63000,Small Appliances,18-35 gift buyers,MAMA10
+37,CMP-037,Eid El-Fitr Flash Sale 2026 | SMS,8,Retention,2026-03-19,2026-03-24,9000,All,Past buyers,EID10
+38,CMP-038,Eid El-Fitr Offers 2026 | WhatsApp,7,Retention,2026-03-19,2026-03-24,9000,All,Opted-in customers,EID10
+39,CMP-039,Spring Clean 2026 | Google,4,Conversion,2026-04-05,2026-04-30,35000,Storage & Organization,Cleaning keywords,SPRING10
+40,CMP-040,Eid El-Adha BBQ & Kitchen 2026,1,Conversion,2026-05-18,2026-05-31,88000,Small Appliances,Broad Egypt,ADHA10
+41,CMP-041,Gehaz El-Arousa 2026 | Meta,1,Conversion,2026-06-01,2026-06-30,155000,Cookware,Engaged women 22-32,AROUSA12
+42,CMP-042,Gehaz El-Arousa 2026 | Creators,6,Conversion,2026-06-01,2026-06-30,101000,Cookware,Creator followers,AROUSA12
+43,CMP-000,Organic & Direct (No Campaign),11,,2025-01-01,2026-06-30,0,All,All,

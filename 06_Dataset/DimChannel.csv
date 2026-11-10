@@ -1,0 +1,12 @@
+﻿ChannelKey,ChannelName,ChannelGroup,Platform,CostModel,IsPaid
+1,Facebook & Instagram,Paid Social,Meta,CPM,1
+2,TikTok,Paid Social,TikTok,CPM,1
+3,Snapchat,Paid Social,Snap,CPM,1
+4,Google Search,Paid Search,Google,CPC,1
+5,YouTube,Video,Google,CPV,1
+6,Influencers,Influencer,Instagram/TikTok,Flat Fee,1
+7,WhatsApp Business,CRM / Owned,Meta,Per Message,1
+8,SMS,CRM / Owned,Telecom,Per Message,1
+9,Email,CRM / Owned,Email Platform,Subscription,1
+10,Outdoor Billboards,Offline,OOH,Flat Fee,1
+11,Organic & Direct,Organic,Website/App,None,0

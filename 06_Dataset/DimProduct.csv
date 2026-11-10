@@ -1,0 +1,59 @@
+﻿ProductKey,SKU,ProductName,Category,Subcategory,ListPrice,UnitCost
+1,SH-COO-001,Granite Cookware Set 10 pcs,Cookware,Pots & Pans Sets,8900,5461
+2,SH-COO-002,Granite Cookware Set 7 pcs,Cookware,Pots & Pans Sets,6200,3417
+3,SH-COO-003,Stainless Steel Pot Set 6 pcs,Cookware,Pots & Pans Sets,7400,4815
+4,SH-COO-004,Ceramic Cookware Set 12 pcs,Cookware,Pots & Pans Sets,11800,7000
+5,SH-COO-005,Non-Stick Frying Pan 28 cm,Cookware,Frying Pans,1250,717
+6,SH-COO-006,Granite Frying Pan 24 cm,Cookware,Frying Pans,980,604
+7,SH-COO-007,Grill Pan 28 cm,Cookware,Frying Pans,1450,793
+8,SH-COO-008,Pressure Cooker 7 L,Cookware,Pressure Cookers,3900,2091
+9,SH-COO-009,Pressure Cooker 10 L,Cookware,Pressure Cookers,4800,3011
+10,SH-COO-010,Pyrex Oven Tray Set 3 pcs,Cookware,Baking,850,478
+11,SH-COO-011,Non-Stick Cake Mould Set,Cookware,Baking,690,440
+12,SH-COO-012,Mahshi Pot 40 cm,Cookware,Pots & Pans Sets,1650,877
+13,SH-SMA-013,Digital Air Fryer 5.5 L,Small Appliances,Air Fryers,4600,2861
+14,SH-SMA-014,Air Fryer Oven 12 L,Small Appliances,Air Fryers,7900,4781
+15,SH-SMA-015,Blender 1.5 L 600 W,Small Appliances,Blenders,2350,1309
+16,SH-SMA-016,Hand Blender Set 800 W,Small Appliances,Blenders,1950,1263
+17,SH-SMA-017,Food Processor 1000 W,Small Appliances,Food Processors,5600,3207
+18,SH-SMA-018,Electric Kettle 1.7 L,Small Appliances,Kettles,1100,693
+19,SH-SMA-019,Turkish Coffee Maker,Small Appliances,Coffee,1350,773
+20,SH-SMA-020,Espresso Machine 15 Bar,Small Appliances,Coffee,8900,5766
+21,SH-SMA-021,Stand Mixer 5 L,Small Appliances,Mixers,6900,4419
+22,SH-SMA-022,Hand Mixer 300 W,Small Appliances,Mixers,990,639
+23,SH-SMA-023,Electric Grill & Sandwich Maker,Small Appliances,Grills,1800,1156
+24,SH-SMA-024,Water Dispenser Kettle,Small Appliances,Kettles,2600,1707
+25,SH-KIT-025,Kitchen Knife Set 6 pcs,Kitchen Tools,Knives,1100,612
+26,SH-KIT-026,Silicone Utensil Set 11 pcs,Kitchen Tools,Utensils,650,338
+27,SH-KIT-027,Wooden Spoon Set 5 pcs,Kitchen Tools,Utensils,280,149
+28,SH-KIT-028,Vegetable Chopper,Kitchen Tools,Prep,420,265
+29,SH-KIT-029,Cutting Board Set 3 pcs,Kitchen Tools,Prep,390,241
+30,SH-KIT-030,Digital Kitchen Scale,Kitchen Tools,Prep,350,195
+31,SH-KIT-031,Ramadan Serving Tray Set,Kitchen Tools,Serving,950,583
+32,SH-KIT-032,Glass Juice Jug Set,Kitchen Tools,Serving,520,316
+33,SH-KIT-033,Dinner Set 24 pcs,Kitchen Tools,Serving,3400,2193
+34,SH-KIT-034,Tea & Coffee Cups Set 12 pcs,Kitchen Tools,Serving,780,439
+35,SH-HOM-035,Cotton Bed Sheet Set King,Home Textiles,Bedding,1850,1073
+36,SH-HOM-036,Cotton Bed Sheet Set Single,Home Textiles,Bedding,1050,575
+37,SH-HOM-037,Winter Comforter Double,Home Textiles,Bedding,2900,1839
+38,SH-HOM-038,Fleece Blanket,Home Textiles,Bedding,1250,762
+39,SH-HOM-039,Towel Set 6 pcs,Home Textiles,Bath,950,565
+40,SH-HOM-040,Bathrobe Cotton,Home Textiles,Bath,1150,613
+41,SH-HOM-041,Medical Pillow,Home Textiles,Pillows,690,410
+42,SH-HOM-042,Fibre Pillow Pair,Home Textiles,Pillows,520,272
+43,SH-HOM-043,Ramadan Table Cloth,Home Textiles,Kitchen Textiles,480,261
+44,SH-HOM-044,Blackout Curtain Pair,Home Textiles,Curtains,1600,839
+45,SH-STO-045,Glass Food Containers 10 pcs,Storage & Organization,Food Storage,890,510
+46,SH-STO-046,Spice Jar Set 12 pcs,Storage & Organization,Food Storage,450,276
+47,SH-STO-047,Vacuum Storage Bags 6 pcs,Storage & Organization,Wardrobe,380,219
+48,SH-STO-048,Fabric Storage Boxes 3 pcs,Storage & Organization,Wardrobe,520,317
+49,SH-STO-049,Kids Lunch Box Set,Storage & Organization,Kids,290,153
+50,SH-STO-050,Water Bottle 750 ml,Storage & Organization,Kids,220,140
+51,SH-STO-051,Bathroom Organizer Shelf,Storage & Organization,Bathroom,650,342
+52,SH-STO-052,Dish Drying Rack 2 Tier,Storage & Organization,Kitchen,780,499
+53,SH-HOM-053,Scented Candle Set 3 pcs,Home Fragrance,Candles,480,291
+54,SH-HOM-054,Reed Diffuser 200 ml,Home Fragrance,Diffusers,550,325
+55,SH-HOM-055,Electric Aroma Diffuser,Home Fragrance,Diffusers,1250,788
+56,SH-HOM-056,Bakhoor Burner & Oud Set,Home Fragrance,Bakhoor,890,581
+57,SH-HOM-057,Room Spray Oud 300 ml,Home Fragrance,Room Sprays,260,154
+58,SH-HOM-058,Home Fragrance Gift Box,Home Fragrance,Gift Sets,1350,824

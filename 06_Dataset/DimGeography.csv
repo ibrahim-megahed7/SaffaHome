@@ -1,0 +1,35 @@
+﻿GeoKey,City,Governorate,Region,ShippingZone
+1,Nasr City,Cairo,Greater Cairo,Zone A
+2,New Cairo,Cairo,Greater Cairo,Zone A
+3,Maadi,Cairo,Greater Cairo,Zone A
+4,Heliopolis,Cairo,Greater Cairo,Zone A
+5,Shubra,Cairo,Greater Cairo,Zone A
+6,Downtown Cairo,Cairo,Greater Cairo,Zone A
+7,Dokki & Mohandessin,Giza,Greater Cairo,Zone A
+8,6th of October,Giza,Greater Cairo,Zone A
+9,Sheikh Zayed,Giza,Greater Cairo,Zone A
+10,Haram & Faisal,Giza,Greater Cairo,Zone A
+11,Shubra El-Kheima,Qalyubia,Greater Cairo,Zone A
+12,Obour City,Qalyubia,Greater Cairo,Zone A
+13,Alexandria East,Alexandria,Alexandria & North Coast,Zone B
+14,Alexandria West,Alexandria,Alexandria & North Coast,Zone B
+15,North Coast (Sahel),Matrouh,Alexandria & North Coast,Zone B
+16,Damanhour,Beheira,Alexandria & North Coast,Zone B
+17,Mansoura,Dakahlia,Delta,Zone B
+18,Tanta,Gharbia,Delta,Zone B
+19,Zagazig,Sharqia,Delta,Zone B
+20,Shebin El-Kom,Monufia,Delta,Zone B
+21,Kafr El-Sheikh,Kafr El-Sheikh,Delta,Zone B
+22,Damietta,Damietta,Delta,Zone B
+23,Port Said,Port Said,Canal & Sinai,Zone C
+24,Ismailia,Ismailia,Canal & Sinai,Zone C
+25,Suez,Suez,Canal & Sinai,Zone C
+26,Hurghada,Red Sea,Canal & Sinai,Zone C
+27,Fayoum,Fayoum,Upper Egypt,Zone C
+28,Beni Suef,Beni Suef,Upper Egypt,Zone C
+29,Minya,Minya,Upper Egypt,Zone C
+30,Assiut,Assiut,Upper Egypt,Zone C
+31,Sohag,Sohag,Upper Egypt,Zone C
+32,Qena,Qena,Upper Egypt,Zone C
+33,Luxor,Luxor,Upper Egypt,Zone C
+34,Aswan,Aswan,Upper Egypt,Zone C
